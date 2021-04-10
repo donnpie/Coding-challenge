@@ -1,0 +1,21 @@
+.viz-area{
+display: flex;
+border: 1px black solid;
+}
+
+.bar-group{
+    display: flex;
+    align-items: flex-end;
+}
+
+.blank{
+    height: 600px;
+    width: 10px;
+    /* background-color: aqua; */
+}
+
+.bar{
+    height: 300px;
+    width: 10px;
+    background-color: brown;
+}
